@@ -1,2 +1,2 @@
-# this is a python circle calculator!
-# go to releases section to find the different releases!
+# First commit to github
+my first python project in 8th grade
